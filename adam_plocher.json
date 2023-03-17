@@ -1,0 +1,391 @@
+{
+   "basics":{
+      "name":"Adam Plocher",
+      "label":"Senior Full-Stack Software Engineer",
+      "headline":"A motivated and professional software developer with over 20 years of experience in the industry",
+      "summary":"Experienced full-stack developer with an appreciation for great software! Specializes in Microsoft-stack and JavaScript/TypeScript development with Angular.",
+      "website":"http://www.adamplocher.com",
+      "yearsOfExperience":22,
+      "username":"aplocher",
+      "email":"aplocher@gmail.com",
+      "region":"Sacramento, CA",
+      "location":{
+         "city":"Sacramento",
+         "region":"California",
+         "countryCode":"US"
+      },
+      "profiles":[
+         {
+            "network":"LinkedIn",
+            "url":"https://www.linkedin.com/in/aplocher",
+            "username":"aplocher"
+         },
+         {
+            "network":"StackOverflow",
+            "url":"https://stackoverflow.com/users/730566/adam-plocher",
+            "username":"adam-plocher"
+         },
+         {
+            "network":"GitHub",
+            "username":"aplocher",
+            "url":"https://github.com/aplocher"
+         }
+      ]
+   },
+   "skills":[
+      {
+         "name":"Languages",
+         "level":"Master",
+         "keywords":[
+            "C#",
+            "TypeScript",
+            "JavaScript",
+            "HTML",
+            "XAML",
+            "CSS",
+            "SCSS",
+            "T-SQL",
+            "MySQL",
+            "PowerShell",
+            "Python",
+            "PHP",
+            "JSON",
+            "XML",
+            "Lua"
+         ]
+      },
+      {
+         "name":"Web",
+         "level":"Master",
+         "keywords":[
+            "ASP.NET Core",
+            "Angular (2 - 13)",
+            "WebAPI",
+            "MVC",
+            "AngularJS",
+            "REST",
+            "SOAP",
+            "JQuery",
+            "Bootstrap"
+         ]
+      },
+      {
+         "name":"Desktop",
+         "level":"Master",
+         "keywords":[
+            "WPF",
+            "Windows Forms (WinForms)",
+            "Avalonia",
+            "WiX Toolset (Setup Projects)",
+            "Windows Services"
+         ]
+      },
+      {
+         "name":"Database",
+         "level":"Master",
+         "keywords":[
+            "Microsoft SQL",
+            "SSRS",
+            "SSIS",
+            "MySQL",
+            "MariaDB",
+            "Sybase ASE 12.5"
+         ]
+      },
+      {
+         "name":"Frameworks / Libraries / APIs",
+         "level":"Advanced",
+         "keywords":[
+            ".NET 6",
+            ".NET Core 3.1",
+            ".NET Framework",
+            "Entity Framework",
+            "Azure Service Fabric",
+            "AutoFac",
+            "Microsoft Graph",
+            "NativeScript",
+            "Moq",
+            "AutoMock",
+            "MSTest",
+            "NUnit",
+            "MediatR"
+         ]
+      },
+      {
+         "name":"Tools (IDEs, etc.)",
+         "level":"Advanced",
+         "keywords":[
+            "Microsoft Visual Studio",
+            "SQL Server Management Studio (SSMS)",
+            "VS Code",
+            "vim",
+            "Postman",
+            "Azure Data Studio",
+            "Android Studio",
+            "WebStorm",
+            "SQL Profiler",
+            "Fiddler",
+            "Beyond Compare"
+         ]
+      },
+      {
+         "name":"Version Control / CI / CD / Project Tracking",
+         "level":"Advanced",
+         "keywords":[
+            "Azure DevOps",
+            "Azure Pipelines",
+            "TFS (Git and TFVC)",
+            "Git",
+            "Jira",
+            "Confluence",
+            "TeamCity",
+            "Octopus",
+            "Subversion",
+            "SourceGear Vault",
+            "CruiseControl.NET"
+         ]
+      },
+      {
+         "name":"CLI",
+         "level":"Advanced",
+         "keywords":[
+            "git",
+            "npm",
+            "dotnet",
+            "docker",
+            "docker-compose",
+            "ng",
+            "tns",
+            "wsl",
+            "bash",
+            "pwsh",
+            "cmd",
+            "webpack",
+            "bower",
+            "pip"
+         ]
+      },
+      {
+         "name":"Operating Systems",
+         "level":"Master",
+         "keywords":[
+            "Windows 11 Pro (and earlier)",
+            "Windows Server 2019 (and earlier)",
+            "Linux (Ubuntu, Debian, Slackware, WSL)"
+         ]
+      }
+   ],
+   "projects":[
+      
+   ],
+   "work":[
+      {
+         "company": "Alogent",
+         "position": "Senior Software Engineer",
+         "website": "https://www.alogent.com",
+         "location": "Peachtree Corners, GA (remote from Sacramento, CA)",
+         "summary": "Worked on several features for Alogent's next generation online banking product for Credit Unions and managed a customer implementation.",
+         "isCurrentRole":true,
+         "startDate":"2021-04-21",
+         "start":{
+            "year":2021,
+            "month":4
+         },
+         "highlights": [
+            "Led a small team of developers and managed a credit union implementation and rollout for a customer in Ohio with over 32,000 members.",
+            "Participated in (Agile) Scrum ceremonies and performed monthly sprints.",
+            "Worked on our next generation product using .NET 6 and Angular 13.",
+            "Used Jira to manage stories and bugs for myself and my team.",
+            "Managed CI/CD for my team's customer implementation using TeamCity and Octopus Deploy.",
+            "Designed and built the credit and debit card controls backend for Alogent's NXT product.",
+            "Implemented a new mobile check deposit vendor integration.",
+            "Helped define and generate JSON translation files for internationalization of the application (i18n).",
+            "Implemented Microsoft Office 365 OAuth support into our product for Outgoing Email (using Microsoft Graph) and Incoming Email (Imap w/ OAuth).",
+            "Utilize TDD, DI/IoC, and CQRS (with MediatR) patterns to produce clean, unit-tested code.",
+            "Worked on mobile features for Android and iOS using NativeScript."
+         ]
+      },
+      {
+         "company":"Varis LLC",
+         "position":"Senior Software Developer",
+         "website":"http://www.varis1.com",
+         "location":"Roseville, CA",
+         "summary":"Responsible for building full-stack software solutions to handle a large volume of incoming documents.",
+         "isCurrentRole":false,
+         "startDate":"2019-09-01",
+         "endDate":"2021-04-20",
+         "start":{
+            "year":2019,
+            "month":9
+         },
+         "end": {
+            "year": 2021,
+            "month":4
+         },
+         "highlights":[
+            "Utilized C#, Azure Service Fabric, and Docker to build a series of micro-services which converts, OCRs, and processes a large continuous volume of inbound documents (thousands daily).",
+            "Wrote a .NET 5 WPF-based monitoring/dashboard which displays live status and past stats of the document services.",
+            "Wrote a WPF-based PDF/TIFF annotation editor using the AtalaSoft DotImage (WinForms) control. The WPF components use MVVM, dependency injection (w/ AutoFac).",
+            "Used docker-compose to setup a GrayLog, Prometheus, AlertManager, and Grafana dashboard service. GrayLog is now used by all Varis applications and services for error handling."
+         ]
+      },
+      {
+         "company":"BitCollectors",
+         "position":"Software Consultant",
+         "website":"http://www.bitcollectors.com",
+         "location":"Sacramento, CA",
+         "summary":"Started BitCollecters with my wife in 2011 where our shared expertise in the software industry has been utilized to help several clients implement new custom software solutions or maintain existing ones.",
+         "isCurrentRole":false,
+         "startDate":"2011-09-01",
+         "endDate":"2019-08-01",
+         "start":{
+            "year":2011,
+            "month":9
+         },
+         "end":{
+            "year":2019,
+            "month":8
+         },
+         "highlights":[
+            "Created a new software product for Resource Action Program to manage inventory, clients, and shipments. Was responsible for designing and implementing the backend architecture using SQL Server, ASP.NET Core, and Onion architecture principals. Also handled the majority of development and architecture with the front-end Angular (v6) project. ",
+            "Handled the creation of various proof-of-concepts for the CEO and CIO of LifeMed ID, including integration of several biometric hardware SDKs into the WPF front-end. Also created an Android application using the Android SDK which could be used by healthcare providers and their patients to accurately identify patients. Regularly created UI and input automation scripts to automate patient searches within legacy EMR systems.",
+            "Worked with the project manager of Maranatha: Volunteers International to build a system that is used for managing hundreds of construction projects each year. The application is utilizing AngularJS, Microsoft SQL Server, and ASP.NET Web API.",
+            "Managed hosted environments using Microsoft Azure Virtual Machines."
+         ]
+      },
+      {
+         "company":"LifeMed ID",
+         "position":"Lead Software Engineer",
+         "website":"http://www.lifemedid.com",
+         "location":"Citrus Heights, CA",
+         "summary":"Led the design and development of their core product which assisted with healthcare provider registrations. The system acted as a \"bolt-on\" service that sat on top of their existing EMR software. It enables healthcare providers to register and issue identity tokens (smart cards, magstripe cards, biometrics, etc) to their patients to streamline future visits and positively identify the patient.",
+         "isCurrentRole":false,
+         "startDate":"2008-09-01",
+         "endDate":"2015-05-01",
+         "start":{
+            "year":2008,
+            "month":9
+         },
+         "end":{
+            "year":2015,
+            "month":5
+         },
+         "highlights":[
+            "Built the original core product from the ground up. Originally using .NET 4.0, Windows Forms, and Microsoft SQL Server, it was eventually migrated over to WPF with MVVM and Web API (RESTful web services).",
+            "Created a Windows Service application that handled the issuance of patient identification tokens. It supported the printing of smart cards, magnetic stripe cards, or patient QR-code wristbands. It included a WinForms UI for managing and monitoring the service via IPC.",
+            "Designed an auto-update system that handled the automated deployment of our software to hundreds of users.",
+            "Wrote a card layout design utility with WinForms for visually creating the card layouts used by customers to print patient cards. Field positions such as X and Y positions and Z-order were defined in the database for elements such as patient photo, name, medical record #, etc.",
+            "Built a patient portal using ASP.NET MVC, Bootstrap, and JQuery.",
+            "Created an input and UI automation library using C# to call Win32 API functions to simulate keystrokes and mouse clicks (User32.dll \\ SendInput). Automation steps were defined in XML. This was used to facilitate one of the core functions of the LifeMed ID product.",
+            "Wrote an internal IDE for developing the automation XML. It utilized AvalonEdit for syntax-highlighting and WPF with MVVM. It allowed staff to quickly and easily develop and debug automation scripts.",
+            "Created a working proof-of-concept application for the Verifone MX915 and MX925 POS devices. The POC allowed smartcard and magnetic stripe patient cards to be read to invoke the LifeMed search automation on the healthcare providers EMR software."
+         ]
+      },
+      {
+         "company":"SN Servicing Corporation",
+         "position":"Software Engineer",
+         "website":"http://www.snsc.com",
+         "location":"Mather, CA",
+         "summary":"",
+         "isCurrentRole":false,
+         "startDate":"2007-03-01",
+         "endDate":"2008-07-01",
+         "start":{
+            "year":2007,
+            "month":3
+         },
+         "end":{
+            "year":2008,
+            "month":7
+         },
+         "highlights":[
+            "Built and maintained several modules for their internal asset management application. Modules utilized .NET, C#, and CSLA.NET remoting framework.",
+            "Maintained a BPO (Broker Price Opinion) web portal with ASP.NET"
+         ]
+      },
+      {
+         "company":"Sacramento Sheriff's Department",
+         "position":"Web Developer",
+         "website":"http://www.sacsheriff.com",
+         "location":"Sacramento, CA",
+         "summary":"",
+         "isCurrentRole":false,
+         "startDate":"2006-08-01",
+         "endDate":"2007-03-01",
+         "start":{
+            "year":2006,
+            "month":8
+         },
+         "end":{
+            "year":2007,
+            "month":3
+         },
+         "highlights":[
+            
+         ]
+      },
+      {
+         "company":"Axiom Analytix",
+         "position":"Software Engineer",
+         "website":"http://www.axiomanalytix.com",
+         "location":"Gold River, CA",
+         "summary":"",
+         "isCurrentRole":false,
+         "startDate":"2005-07-01",
+         "endDate":"2006-08-01",
+         "start":{
+            "year":2005,
+            "month":7
+         },
+         "end":{
+            "year":2006,
+            "month":8
+         },
+         "highlights":[
+            
+         ]
+      },
+      {
+         "company":"e.Republic, Inc",
+         "position":"Web Developer",
+         "website":"http://www.erepublic.com",
+         "location":"Folsom, CA",
+         "summary":"",
+         "isCurrentRole":false,
+         "startDate":"1999-12-01",
+         "endDate":"2004-10-01",
+         "start":{
+            "year":1999,
+            "month":12
+         },
+         "end":{
+            "year":2004,
+            "month":10
+         },
+         "highlights":[
+            
+         ]
+      }
+   ],
+   "publications":[
+      
+   ],
+   "education":[
+      
+   ],
+   "volunteer":[
+      
+   ],
+   "awards":[
+      
+   ],
+   "languages":[
+      
+   ],
+   "interests":[
+      
+   ],
+   "references":[
+      
+   ]
+}
