@@ -1,0 +1,20 @@
+{
+  "name": "adam_plocher_resume",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My résumé, hosted at adamplocher.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplocher/resume.git"
+  },
+  "scripts": {
+    "output-html": "resume export ./adam_plocher.html -r ./adam_plocher.json -t hired -f html",
+    "output-pdf": "resume export ./adam_plocher.pdf -r ./adam_plocher.json -t hired -f pdf"
+  },
+  "author": "Adam Plocher",
+  "homepage": "https://adamplocher.com",
+  "dependencies": {
+    "jsonresume-theme-hired": "^0.0.1",
+    "resume-cli": "^3.0.8"
+  }
+}
