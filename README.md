@@ -1,6 +1,6 @@
 # Adam Plocher's Resume
 
-My résumé, hosted at adamplocher.com
+My résumé, hosted at [adamplocher.com](https://adamplocher.com)
 
 # Compiling
 
@@ -12,3 +12,7 @@ cd resume
 npm install
 ./output.sh
 ```
+
+# Theme
+
+The theme used is [jsonresume-theme-hired](https://github.com/aplocher/jsonresume-theme-hired), designed by me.
