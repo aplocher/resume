@@ -6,7 +6,9 @@ My résumé, hosted at adamplocher.com
 
 To generate the HTML / PDF files from JSON source:
 
-> git clone https://github.com/aplocher/resume.git
-> cd resume
-> npm install
-> ./output.sh
+```bash
+git clone https://github.com/aplocher/resume.git
+cd resume
+npm install
+./output.sh
+```
