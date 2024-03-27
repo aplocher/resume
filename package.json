@@ -14,7 +14,7 @@
   "author": "Adam Plocher",
   "homepage": "https://adamplocher.com",
   "dependencies": {
-    "jsonresume-theme-hired": "^0.0.1",
+    "jsonresume-theme-hired": "^0.0.2",
     "resume-cli": "^3.0.8"
   }
 }
