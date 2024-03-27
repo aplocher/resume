@@ -49,7 +49,7 @@
          ]
       },
       {
-         "name":"Web",
+         "name":"Web Development",
          "keywords":[
             "ASP.NET Core",
             "Angular (2 - 13)",
@@ -62,7 +62,7 @@
          ]
       },
       {
-         "name":"Desktop",
+         "name":"Desktop Development",
          "keywords":[
             "WPF",
             "Windows Forms (WinForms)",
@@ -72,7 +72,7 @@
          ]
       },
       {
-         "name":"Database",
+         "name":"Databases",
          "keywords":[
             "Microsoft SQL",
             "SSRS",
@@ -83,7 +83,7 @@
          ]
       },
       {
-         "name":"Frameworks / Libraries / APIs",
+         "name":"Frameworks, Libraries, APIs",
          "keywords":[
             ".NET 6",
             ".NET Core 3.1",
@@ -117,7 +117,7 @@
          ]
       },
       {
-         "name":"Version Control / CI / CD / Project Tracking",
+         "name":"Source Control, CI/CD, Project Tracking",
          "keywords":[
             "Git",
             "Azure DevOps",
@@ -127,9 +127,7 @@
             "Confluence",
             "TeamCity",
             "Octopus",
-            "Subversion",
-            "SourceGear Vault",
-            "CruiseControl.NET"
+            "Subversion"
          ]
       },
       {
@@ -206,10 +204,10 @@
             "month":4
          },
          "highlights":[
-            "Developed a suite of microservices using C#, Azure Service Fabric, and Docker, designed to convert, OCR, and process thousands of inbound documents daily, ensuring efficient and reliable document handling.",
-            "Engineered a .NET 5 WPF-based monitoring dashboard, offering real-time status updates and historical analytics of document processing services, enhancing operational transparency and decision-making.",
-            "Created a WPF-based PDF/TIFF annotation editor, leveraging MVVM and dependency injection with AutoFac for modular design and improved maintainability.",
-            "Led the integration of a comprehensive logging and monitoring stack using docker-compose, including GrayLog, Prometheus, AlertManager, and Grafana. "
+            "Developed microservices in C#, Azure Service Fabric, and Docker for processing thousands of documents daily, streamlining document handling.",
+            "Built a .NET 5 WPF monitoring dashboard for live service status and analytics, improving operational insight.",
+            "Created a WPF PDF/TIFF annotation editor with MVVM and AutoFac, enhancing design modularity and maintainability.",
+            "Implemented a logging/monitoring stack with GrayLog, Prometheus, AlertManager, and Grafana via docker-compose."
          ]
       },
       {
@@ -230,10 +228,10 @@
             "month":8
          },
          "highlights":[
-            "Developed and architected a comprehensive inventory management system for a client, utilizing SQL Server, ASP.NET Core, and Onion architecture principles. Led both backend and frontend (Angular v6) development efforts, enhancing client, shipment, and fulfillment tracking.",
-            "Designed and implemented various proof-of-concepts for LifeMed ID's CEO and CIO, integrating biometric hardware SDKs into a WPF interface and developing an Android application for healthcare patient identification. Automated UI and input processes for efficient patient search within legacy EMR systems.",
-            "Collaborated with Maranatha: Volunteers International's product owner to create a project management system for overseeing hundreds of annual construction projects, leveraging Angular, Microsoft SQL Server, and ASP.NET Web API.",
-            "Administered hosted environments on Microsoft Azure and AWS, ensuring optimal performance and security."
+            "Developed and architected a comprehensive inventory management system for a client, utilizing SQL Server, ASP.NET Core, and Angular v6.",
+            "Designed and implemented proof-of-concepts for LifeMed ID, including multiple biometric integrations and an Android app for patient ID, enhancing EMR search efficiency.",
+            "Built a project management system with Maranatha: Volunteers International, using Angular and ASP.NET Web API, for overseeing hundreds construction projects annually.",
+            "Managed hosted environments on Microsoft Azure."
          ]
       },
       {
