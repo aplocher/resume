@@ -2,11 +2,9 @@
    "basics":{
       "name":"Adam Plocher",
       "label":"Senior Full-Stack Software Engineer",
-      "headline":"A motivated and professional software developer with over 20 years of experience in the industry",
-      "summary":"Experienced full-stack developer with an appreciation for great software! Specializes in Microsoft-stack and JavaScript/TypeScript development with Angular.",
+      "summary":"Senior/Lead Software Engineer with 20+ years in full-stack development, expert in Microsoft technologies (ASP.NET, WPF, SQL Server), JavaScript/TypeScript, and Angular. Skilled in backend development and leading teams to deliver high quality software solutions. Works closely with Product Owners to streamline backlogs and achieve business goals, demonstrating a strong leadership and a results-focused approach.",
       "website":"http://www.adamplocher.com",
-      "yearsOfExperience":22,
-      "username":"aplocher",
+      "yearsOfExperience":24,
       "email":"aplocher@gmail.com",
       "region":"Sacramento, CA",
       "location":{
@@ -17,17 +15,14 @@
       "profiles":[
          {
             "network":"LinkedIn",
-            "url":"https://www.linkedin.com/in/aplocher",
-            "username":"aplocher"
+            "url":"https://www.linkedin.com/in/aplocher"
          },
          {
             "network":"StackOverflow",
-            "url":"https://stackoverflow.com/users/730566/adam-plocher",
-            "username":"adam-plocher"
+            "url":"https://stackoverflow.com/users/730566/adam-plocher"
          },
          {
             "network":"GitHub",
-            "username":"aplocher",
             "url":"https://github.com/aplocher"
          }
       ]
@@ -35,7 +30,6 @@
    "skills":[
       {
          "name":"Languages",
-         "level":"Master",
          "keywords":[
             "C#",
             "TypeScript",
@@ -56,14 +50,12 @@
       },
       {
          "name":"Web",
-         "level":"Master",
          "keywords":[
             "ASP.NET Core",
             "Angular (2 - 13)",
             "WebAPI",
             "MVC",
-            "AngularJS",
-            "REST",
+            "RESTful Web Services",
             "SOAP",
             "JQuery",
             "Bootstrap"
@@ -71,7 +63,6 @@
       },
       {
          "name":"Desktop",
-         "level":"Master",
          "keywords":[
             "WPF",
             "Windows Forms (WinForms)",
@@ -82,7 +73,6 @@
       },
       {
          "name":"Database",
-         "level":"Master",
          "keywords":[
             "Microsoft SQL",
             "SSRS",
@@ -94,7 +84,6 @@
       },
       {
          "name":"Frameworks / Libraries / APIs",
-         "level":"Advanced",
          "keywords":[
             ".NET 6",
             ".NET Core 3.1",
@@ -113,7 +102,6 @@
       },
       {
          "name":"Tools (IDEs, etc.)",
-         "level":"Advanced",
          "keywords":[
             "Microsoft Visual Studio",
             "SQL Server Management Studio (SSMS)",
@@ -130,12 +118,11 @@
       },
       {
          "name":"Version Control / CI / CD / Project Tracking",
-         "level":"Advanced",
          "keywords":[
+            "Git",
             "Azure DevOps",
             "Azure Pipelines",
             "TFS (Git and TFVC)",
-            "Git",
             "Jira",
             "Confluence",
             "TeamCity",
@@ -147,10 +134,10 @@
       },
       {
          "name":"CLI",
-         "level":"Advanced",
          "keywords":[
             "git",
             "npm",
+            "nvm",
             "dotnet",
             "docker",
             "docker-compose",
@@ -167,7 +154,6 @@
       },
       {
          "name":"Operating Systems",
-         "level":"Master",
          "keywords":[
             "Windows 11 Pro (and earlier)",
             "Windows Server 2019 (and earlier)",
@@ -175,16 +161,13 @@
          ]
       }
    ],
-   "projects":[
-      
-   ],
    "work":[
       {
          "company": "Alogent",
          "position": "Senior Software Engineer",
          "website": "https://www.alogent.com",
          "location": "Peachtree Corners, GA (remote from Sacramento, CA)",
-         "summary": "Worked on several features for Alogent's next generation online banking product for Credit Unions and managed a customer implementation.",
+         "summary": "Lead of a development squad, responsible for successfully delivering key features for one of Alogent's core products. Spearheads cross-functional collaboration to launch enhancements, significantly boosting performance and user experience. Demonstrates strong leadership in guiding the team towards strategic project objectives.",
          "isCurrentRole":true,
          "startDate":"2021-04-21",
          "start":{
@@ -192,17 +175,17 @@
             "month":4
          },
          "highlights": [
-            "Led a small team of developers and managed a credit union implementation and rollout for a customer in Ohio with over 32,000 members.",
-            "Participated in (Agile) Scrum ceremonies and performed monthly sprints.",
-            "Worked on our next generation product using .NET 6 and Angular 13.",
-            "Used Jira to manage stories and bugs for myself and my team.",
-            "Managed CI/CD for my team's customer implementation using TeamCity and Octopus Deploy.",
-            "Designed and built the credit and debit card controls backend for Alogent's NXT product.",
-            "Implemented a new mobile check deposit vendor integration.",
-            "Helped define and generate JSON translation files for internationalization of the application (i18n).",
-            "Implemented Microsoft Office 365 OAuth support into our product for Outgoing Email (using Microsoft Graph) and Incoming Email (Imap w/ OAuth).",
+            "Lead a squad of developers and QA/QE professionals.",
+            "Work closely with Product Owners to refine our teams backlog.",
+            "Run daily stand-up and refinement sessions with my squad.",
+            "Develop key features of our application using .NET 6 and Angular 13+.",
+            "Participate in (Agile) Scrum ceremonies and perform 2-week sprints.",
+            "Use Jira to manage stories and bugs for my team.",
+            "Manage certain aspects of CI/CD for my team using TeamCity and Octopus Deploy.",
+            "Implemented multiple vendor integrations using SSOs and third-party APIs.",
             "Utilize TDD, DI/IoC, and CQRS (with MediatR) patterns to produce clean, unit-tested code.",
-            "Worked on mobile features for Android and iOS using NativeScript."
+            "Heavy focus on meaningful unit tests with high code coverage.",
+            "Work on mobile feature development for Android and iOS using NativeScript and Angular."
          ]
       },
       {
@@ -210,7 +193,7 @@
          "position":"Senior Software Developer",
          "website":"http://www.varis1.com",
          "location":"Roseville, CA",
-         "summary":"Responsible for building full-stack software solutions to handle a large volume of incoming documents.",
+         "summary":"Led the development of full-stack software solutions at Varis, enhancing the processing of high-volume electronic documents with technologies like .NET and Azure Service Fabric. This rearchitecture allowed for significant improvements in document workflow efficiency and data integrity.",
          "isCurrentRole":false,
          "startDate":"2019-09-01",
          "endDate":"2021-04-20",
@@ -223,10 +206,10 @@
             "month":4
          },
          "highlights":[
-            "Utilized C#, Azure Service Fabric, and Docker to build a series of micro-services which converts, OCRs, and processes a large continuous volume of inbound documents (thousands daily).",
-            "Wrote a .NET 5 WPF-based monitoring/dashboard which displays live status and past stats of the document services.",
-            "Wrote a WPF-based PDF/TIFF annotation editor using the AtalaSoft DotImage (WinForms) control. The WPF components use MVVM, dependency injection (w/ AutoFac).",
-            "Used docker-compose to setup a GrayLog, Prometheus, AlertManager, and Grafana dashboard service. GrayLog is now used by all Varis applications and services for error handling."
+            "Developed a suite of microservices using C#, Azure Service Fabric, and Docker, designed to convert, OCR, and process thousands of inbound documents daily, ensuring efficient and reliable document handling.",
+            "Engineered a .NET 5 WPF-based monitoring dashboard, offering real-time status updates and historical analytics of document processing services, enhancing operational transparency and decision-making.",
+            "Created a WPF-based PDF/TIFF annotation editor, leveraging MVVM and dependency injection with AutoFac for modular design and improved maintainability.",
+            "Led the integration of a comprehensive logging and monitoring stack using docker-compose, including GrayLog, Prometheus, AlertManager, and Grafana. "
          ]
       },
       {
@@ -234,7 +217,7 @@
          "position":"Software Consultant",
          "website":"http://www.bitcollectors.com",
          "location":"Sacramento, CA",
-         "summary":"Started BitCollecters with my wife in 2011 where our shared expertise in the software industry has been utilized to help several clients implement new custom software solutions or maintain existing ones.",
+         "summary":"Co-founded BitCollecters in 2011, leveraging our combined software industry expertise to deliver custom software solutions and maintenance services to diverse clients. Our collaborative efforts have successfully driven the implementation and enhancement of numerous projects, consistently meeting and exceeding client expectations.",
          "isCurrentRole":false,
          "startDate":"2011-09-01",
          "endDate":"2019-08-01",
@@ -247,10 +230,10 @@
             "month":8
          },
          "highlights":[
-            "Created a new software product for Resource Action Program to manage inventory, clients, and shipments. Was responsible for designing and implementing the backend architecture using SQL Server, ASP.NET Core, and Onion architecture principals. Also handled the majority of development and architecture with the front-end Angular (v6) project. ",
-            "Handled the creation of various proof-of-concepts for the CEO and CIO of LifeMed ID, including integration of several biometric hardware SDKs into the WPF front-end. Also created an Android application using the Android SDK which could be used by healthcare providers and their patients to accurately identify patients. Regularly created UI and input automation scripts to automate patient searches within legacy EMR systems.",
-            "Worked with the project manager of Maranatha: Volunteers International to build a system that is used for managing hundreds of construction projects each year. The application is utilizing AngularJS, Microsoft SQL Server, and ASP.NET Web API.",
-            "Managed hosted environments using Microsoft Azure Virtual Machines."
+            "Developed and architected a comprehensive inventory management system for a client, utilizing SQL Server, ASP.NET Core, and Onion architecture principles. Led both backend and frontend (Angular v6) development efforts, enhancing client, shipment, and fulfillment tracking.",
+            "Designed and implemented various proof-of-concepts for LifeMed ID's CEO and CIO, integrating biometric hardware SDKs into a WPF interface and developing an Android application for healthcare patient identification. Automated UI and input processes for efficient patient search within legacy EMR systems.",
+            "Collaborated with Maranatha: Volunteers International's product owner to create a project management system for overseeing hundreds of annual construction projects, leveraging Angular, Microsoft SQL Server, and ASP.NET Web API.",
+            "Administered hosted environments on Microsoft Azure and AWS, ensuring optimal performance and security."
          ]
       },
       {
@@ -258,7 +241,7 @@
          "position":"Lead Software Engineer",
          "website":"http://www.lifemedid.com",
          "location":"Citrus Heights, CA",
-         "summary":"Led the design and development of their core product which assisted with healthcare provider registrations. The system acted as a \"bolt-on\" service that sat on top of their existing EMR software. It enables healthcare providers to register and issue identity tokens (smart cards, magstripe cards, biometrics, etc) to their patients to streamline future visits and positively identify the patient.",
+         "summary":"Directed the design and development of LifeMed ID's core product, enhancing healthcare provider registrations. This innovative 'bolt-on' service integrates seamlessly with existing EMR systems, enabling providers to issue and register identity tokens (including smart cards, magstripe cards, and biometrics) for patients. The solution streamlines patient visits and ensures accurate identification, significantly improving the patient registration process.",
          "isCurrentRole":false,
          "startDate":"2008-09-01",
          "endDate":"2015-05-01",
@@ -271,14 +254,14 @@
             "month":5
          },
          "highlights":[
-            "Built the original core product from the ground up. Originally using .NET 4.0, Windows Forms, and Microsoft SQL Server, it was eventually migrated over to WPF with MVVM and Web API (RESTful web services).",
-            "Created a Windows Service application that handled the issuance of patient identification tokens. It supported the printing of smart cards, magnetic stripe cards, or patient QR-code wristbands. It included a WinForms UI for managing and monitoring the service via IPC.",
-            "Designed an auto-update system that handled the automated deployment of our software to hundreds of users.",
-            "Wrote a card layout design utility with WinForms for visually creating the card layouts used by customers to print patient cards. Field positions such as X and Y positions and Z-order were defined in the database for elements such as patient photo, name, medical record #, etc.",
-            "Built a patient portal using ASP.NET MVC, Bootstrap, and JQuery.",
-            "Created an input and UI automation library using C# to call Win32 API functions to simulate keystrokes and mouse clicks (User32.dll \\ SendInput). Automation steps were defined in XML. This was used to facilitate one of the core functions of the LifeMed ID product.",
-            "Wrote an internal IDE for developing the automation XML. It utilized AvalonEdit for syntax-highlighting and WPF with MVVM. It allowed staff to quickly and easily develop and debug automation scripts.",
-            "Created a working proof-of-concept application for the Verifone MX915 and MX925 POS devices. The POC allowed smartcard and magnetic stripe patient cards to be read to invoke the LifeMed search automation on the healthcare providers EMR software."
+            "Developed and evolved LifeMed ID's core product, leading its transition from .NET 4.0/Windows Forms to a WPF, MVVM, and Web API architecture.",
+            "Led and mentored the development team.",
+            "Engineered a Windows Service for patient ID token issuance (smart cards, magnetic stripe cards, QR-code wristbands) with a WinForms UI for service management.",
+            "Implemented an efficient auto-update system for automated front-end deployments to hundreds of users.",
+            "Created a WinForms-based card layout design utility for visually designing the card layout (such as name and photo locations).",
+            "Developed a patient portal using ASP.NET MVC, Bootstrap, and JQuery for a responsive user experience.",
+            "Created a C# input and UI automation library and an internal IDE for script development and debugging, using AvalonEdit and WPF with MVVM.",
+            "Built a proof-of-concept application for Verifone MX POS devices to integrate patient card reading into healthcare systems."
          ]
       },
       {
@@ -299,7 +282,7 @@
             "month":7
          },
          "highlights":[
-            "Built and maintained several modules for their internal asset management application. Modules utilized .NET, C#, and CSLA.NET remoting framework.",
+            "Created and maintained several modules for their internal asset management application. Modules utilized .NET, C#, and CSLA.NET remoting framework.",
             "Maintained a BPO (Broker Price Opinion) web portal with ASP.NET"
          ]
       },
@@ -321,7 +304,8 @@
             "month":3
          },
          "highlights":[
-            
+            "Built and maintained several internal applications used by deputies in the field.",
+            "Newer development was done with ASP.NET and C#, while older development utilized ColdFusion."
          ]
       },
       {
@@ -342,7 +326,7 @@
             "month":8
          },
          "highlights":[
-            
+            "Worked on a VB.NET Windows Forms application for managing School Accountability Report Cards (SARC)."
          ]
       },
       {
@@ -363,29 +347,10 @@
             "month":10
          },
          "highlights":[
-            
+            "Created and managed several internal applications using PHP and Sybase ASE (T-SQL)",
+            "Worked on migrating from Sybase to Microsoft SQL Server 2000",
+            "Began development on a new internal CMS application which utilized .NET Framework and ASP.NET 1.1."
          ]
       }
-   ],
-   "publications":[
-      
-   ],
-   "education":[
-      
-   ],
-   "volunteer":[
-      
-   ],
-   "awards":[
-      
-   ],
-   "languages":[
-      
-   ],
-   "interests":[
-      
-   ],
-   "references":[
-      
    ]
 }
