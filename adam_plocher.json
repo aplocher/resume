@@ -2,7 +2,7 @@
    "basics":{
       "name":"Adam Plocher",
       "label":"Senior Full-Stack Software Engineer",
-      "summary":"Senior/Lead Software Engineer with 20+ years in full-stack development, expert in Microsoft technologies (ASP.NET, WPF, SQL Server), JavaScript/TypeScript, and Angular. Skilled in backend development and leading teams to deliver high quality software solutions. Works closely with Product Owners to streamline backlogs and achieve business goals, demonstrating a strong leadership and a results-focused approach.",
+      "summary":"Senior/Lead Software Engineer with 20+ years of full-stack development experience, expert in Microsoft technologies (ASP.NET, WPF, SQL Server), JavaScript/TypeScript, and Angular. Skilled in backend development and leading teams to deliver high quality software solutions. Works closely with Product Owners to streamline backlogs and achieve business goals.",
       "website":"http://www.adamplocher.com",
       "yearsOfExperience":24,
       "email":"aplocher@gmail.com",
@@ -44,8 +44,7 @@
             "Python",
             "PHP",
             "JSON",
-            "XML",
-            "Lua"
+            "XML"
          ]
       },
       {
@@ -174,12 +173,11 @@
          },
          "highlights": [
             "Lead a squad of developers and QA/QE professionals.",
-            "Work closely with Product Owners to refine our teams backlog.",
-            "Run daily stand-up and refinement sessions with my squad.",
+            "Run daily stand-up and refinement sessions with my squad and the necessary Product Owners to refine my teams backlog.",
             "Develop key features of our application using .NET 6 and Angular 13+.",
-            "Participate in (Agile) Scrum ceremonies and perform 2-week sprints.",
-            "Use Jira to manage stories and bugs for my team.",
-            "Manage certain aspects of CI/CD for my team using TeamCity and Octopus Deploy.",
+            "Participate in regular (Agile) Scrum ceremonies and perform 2-week sprints.",
+            "Use Jira and BitBucket to manage stories, bugs, and PRs for my team.",
+            "Manage aspects of CI/CD for my team using TeamCity and Octopus Deploy.",
             "Implemented multiple vendor integrations using SSOs and third-party APIs.",
             "Utilize TDD, DI/IoC, and CQRS (with MediatR) patterns to produce clean, unit-tested code.",
             "Heavy focus on meaningful unit tests with high code coverage.",
