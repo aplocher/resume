@@ -84,7 +84,7 @@
       {
          "name":"Frameworks, Libraries, APIs",
          "keywords":[
-            ".NET 6",
+            ".NET 8",
             ".NET Core 3.1",
             ".NET Framework",
             "Entity Framework",
@@ -160,28 +160,45 @@
    ],
    "work":[
       {
+         "company": "Simpson Strong-Tie",
+         "position":"Senior Software Engineer",
+         "website": "https://www.strongtie.com",
+         "location": "Pleasanton, CA (remote from Sacramento, CA)",
+         "summary": "",
+         "isCurrentRole":true,
+         "startDate": "2024-06-10",
+         "start":{
+            "year": 2024,
+            "month": 6
+         },
+         "highlights": [
+
+         ]
+
+      },
+      {
          "company": "Alogent",
          "position": "Senior Software Engineer",
          "website": "https://www.alogent.com",
          "location": "Peachtree Corners, GA (remote from Sacramento, CA)",
-         "summary": "Lead of a development squad, responsible for successfully delivering key features for one of Alogent's core products. Spearheads cross-functional collaboration to launch enhancements, significantly boosting performance and user experience. Demonstrates strong leadership in guiding the team towards strategic project objectives.",
-         "isCurrentRole":true,
+         "summary": "Led a development squad, was responsible for successfully delivering key features for one of Alogent's core products. Spearheaded cross-functional collaboration to launch enhancements, significantly boosting performance and user experience. Demonstrated strong leadership in guiding the team toward strategic project objectives.",
+         "isCurrentRole":false,
          "startDate":"2021-04-21",
          "start":{
             "year":2021,
             "month":4
          },
          "highlights": [
-            "Lead a squad of developers and QA/QE professionals.",
-            "Run daily stand-up and refinement sessions with my squad and the necessary Product Owners to refine my teams backlog.",
-            "Develop key features of our application using .NET 6 and Angular 13+.",
-            "Participate in regular (Agile) Scrum ceremonies and perform 2-week sprints.",
-            "Use Jira and BitBucket to manage stories, bugs, and PRs for my team.",
-            "Manage aspects of CI/CD for my team using TeamCity and Octopus Deploy.",
+            "Led a squad of developers and QA/QE professionals.",
+            "Ran daily stand-up and refinement sessions with my squad and the necessary Product Owners to refine my teams backlog.",
+            "Developed key features of our application using .NET 6 and Angular 13+.",
+            "Participated in regular (Agile) Scrum ceremonies and performed 2-week sprints.",
+            "Used Jira and BitBucket to manage stories, bugs, and PRs for my team.",
+            "Managed aspects of CI/CD for my team using TeamCity and Octopus Deploy.",
             "Implemented multiple vendor integrations using SSOs and third-party APIs.",
-            "Utilize TDD, DI/IoC, and CQRS (with MediatR) patterns to produce clean, unit-tested code.",
+            "Utilized TDD, DI/IoC, and CQRS (with MediatR) patterns to produce clean, unit-tested code.",
             "Heavy focus on meaningful unit tests with high code coverage.",
-            "Work on mobile feature development for Android and iOS using NativeScript and Angular."
+            "Worked on mobile feature development for Android and iOS using NativeScript and Angular."
          ]
       },
       {
